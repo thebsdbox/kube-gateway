@@ -1,2 +1,2 @@
-# kube-proxy
-A transparent proxy for Kubernetes pods
+# kube-gateway
+A transparent gateway for Kubernetes pods
